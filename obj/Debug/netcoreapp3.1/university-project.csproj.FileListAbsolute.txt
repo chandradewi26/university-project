@@ -1,0 +1,12 @@
+/Users/randy/university-project/bin/Debug/netcoreapp3.1/university-project.deps.json
+/Users/randy/university-project/bin/Debug/netcoreapp3.1/university-project.runtimeconfig.json
+/Users/randy/university-project/bin/Debug/netcoreapp3.1/university-project.runtimeconfig.dev.json
+/Users/randy/university-project/bin/Debug/netcoreapp3.1/university-project.dll
+/Users/randy/university-project/bin/Debug/netcoreapp3.1/university-project.pdb
+/Users/randy/university-project/obj/Debug/netcoreapp3.1/university-project.csprojAssemblyReference.cache
+/Users/randy/university-project/obj/Debug/netcoreapp3.1/university-project.AssemblyInfoInputs.cache
+/Users/randy/university-project/obj/Debug/netcoreapp3.1/university-project.AssemblyInfo.cs
+/Users/randy/university-project/obj/Debug/netcoreapp3.1/university-project.csproj.CoreCompileInputs.cache
+/Users/randy/university-project/obj/Debug/netcoreapp3.1/university-project.dll
+/Users/randy/university-project/obj/Debug/netcoreapp3.1/university-project.pdb
+/Users/randy/university-project/obj/Debug/netcoreapp3.1/university-project.genruntimeconfig.cache
