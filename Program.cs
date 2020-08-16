@@ -7,6 +7,7 @@ namespace university_project
         static void Main(string[] args)
         {
             Display.DisplayTimetable();
+            //tambahin komen
 
         }
     }
